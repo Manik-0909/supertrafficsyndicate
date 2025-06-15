@@ -229,4 +229,16 @@ body {
    .logo {
       width: 150px;
    }
+
+   /* .toast-body {
+      font-size: 12px !important;
+   } */
+
+   .toast {
+      --bs-toast-max-width: 320px;
+   }
+
+   .g-recaptcha {
+      overflow-x: auto;
+   }
 }
