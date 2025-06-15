@@ -177,6 +177,11 @@ body {
    box-shadow: var(--box-shadow);
 }
 
+.toast-bg {
+   background: var(--screen-bg-color);
+   border: 3px solid var(--lighter-primary-color) !important;
+}
+
 /* Media Queries */
 @media only screen and (max-width: 1200px) {
    .main-heading {
